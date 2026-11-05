@@ -2,7 +2,7 @@
 
 **Cybersecurity and Computer Science Educator | Software, Web, and Application Developer**
 
-![Ishan Shah's GitHub profile image](https://github.com/ishu13.png)
+![Ishan Shah's GitHub profile image](https://github.com/ishu13.png "Ishan Shah's Image")
 
 Welcome to my portfolio. I am an Information Technology and Cybersecurity instructor at Turtle Mountain College in North Dakota. 
 My work brings together classroom teaching, software development, cybersecurity, and an interest in data science and emerging technologies.
@@ -98,5 +98,3 @@ I value practical learning, clear communication, and continuous improvement. Whe
 ## Connect
 
 You can explore my public work and follow future updates through my [GitHub profile](https://github.com/ishu13).
-
---
